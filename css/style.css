@@ -531,6 +531,15 @@ table, input, button, select, textarea, button:focus, input:focus, select:focus,
   text-align: center;
 }
 
+.sectionHeader {
+  margin-bottom:40px;
+  color:#7A7A7A;
+  font-family: 'Lato', Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  text-align: center;
+}
+
 .sectionParagraphHome {
   font-weight: 200;
   font-size: 24px;
