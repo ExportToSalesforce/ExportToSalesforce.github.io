@@ -663,7 +663,6 @@ font-weight: 100;
 border-top: 1px solid #aaa;
 }
 .footer-container {
-border-top: 1px solid rgb(101, 101, 101);
 font-size: 10px;
 padding-top: 20px;
 margin-top: 30px;
@@ -682,7 +681,7 @@ float: right;
 font-family: 'Montserrat', Helvetica, sans-serif;
 }
 .footer-link, .footer-link:active {
-color: #fff;
+color: #aaa;
 font-size: 10px;
 font-family: 'Montserrat', Helvetica, sans-serif;
 }
