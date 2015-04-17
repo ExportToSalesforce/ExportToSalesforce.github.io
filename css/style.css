@@ -33,14 +33,14 @@ body {
 }
 .navbar-brand-custom {
   font-family: 'Montserrat', Helvetica, sans-serif;
-  color: #00a1e0;
+  color: white;
 }
 .navbar-inverse .navbar-brand {
-color: #00a1e0;
+color: white;
 }
 .mainHeader {
   font-family: 'Montserrat', Helvetica, sans-serif;
-  color: #00a1e0;
+  color: white;
   font-size: 28px;
   text-align: left;
   margin-top: 70px;
