@@ -654,12 +654,13 @@ margin-left: 68px;
 }
 
 .footer {
-background-color: rgb(39,39,39);
+background-color: white;
 min-height: 150px;
 font-size: 16px;
 padding-top: 30px;
-color: white;
+color: #aaa;
 font-weight: 100;
+border-top: 1px solid #aaa;
 }
 .footer-container {
 border-top: 1px solid rgb(101, 101, 101);
