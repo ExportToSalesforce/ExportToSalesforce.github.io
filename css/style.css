@@ -477,8 +477,12 @@ table, input, button, select, textarea, button:focus, input:focus, select:focus,
 }
 
 .exampleImage {
-  width: 500px;
-  height: 350px;
+  box-shadow: 0 0 3px rgba(0,0,0,.1);
+  max-width: 500px;
+  max-height: 375px;
+  border-radius: 7px;
+  width: 100%;
+  margin-bottom: 20px;
 }
 
 .testimonialParagraph {
@@ -504,8 +508,7 @@ table, input, button, select, textarea, button:focus, input:focus, select:focus,
 }
 
 .sampleImage {
-  max-width: 100%;
-  max-height: 420px;
+  width: 900px;
 }
 
 .headerContainer {
