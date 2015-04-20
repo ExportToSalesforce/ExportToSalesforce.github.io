@@ -684,7 +684,7 @@ font-weight: 100;
 }
 .footer-container {
 border-top: 1px solid rgb(101, 101, 101);
-font-size: 10px;
+font-size: 14px;
 padding-top: 20px;
 margin-top: 30px;
 }
@@ -711,5 +711,5 @@ font-family: 'Montserrat', Helvetica, sans-serif;
   text-decoration: none;
 }
 .footer-social {
-font-size: 13px;
+font-size: 24px;
 }
