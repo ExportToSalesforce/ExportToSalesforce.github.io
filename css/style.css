@@ -706,7 +706,7 @@ color: #fff;
 font-size: 10px;
 font-family: 'Montserrat', Helvetica, sans-serif;
 }
-.footer-link:hover {
+.footer-link:hover, .footer-link:focus {
   color: #B2B2B2;
   text-decoration: none;
 }
