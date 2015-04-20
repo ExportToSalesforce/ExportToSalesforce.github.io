@@ -612,6 +612,10 @@ table, input, button, select, textarea, button:focus, input:focus, select:focus,
     text-align: left;
     width: 100%;
   }
+
+  .sampleImage {
+    margin-left: -100px;
+  }
 }
 
 .responsiveHide {
