@@ -701,14 +701,15 @@ margin-right: 25px;
 float: right;
 font-family: 'Montserrat', Helvetica, sans-serif;
 }
-.footer-link, .footer-link:active {
+.footer-link {
 color: #fff;
 font-size: 10px;
 font-family: 'Montserrat', Helvetica, sans-serif;
 }
-.footer-link:hover, .footer-link:focus {
+.footer-link:hover, .footer-link:focus, .footer-link:active {
   color: #B2B2B2;
   text-decoration: none;
+font-size: 24px;
 }
 .footer-social {
 font-size: 24px;
