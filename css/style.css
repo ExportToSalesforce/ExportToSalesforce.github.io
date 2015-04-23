@@ -111,7 +111,9 @@ color: white;
   -webkit-box-shadow: none;
   box-shadow: none;
 }
-
+.fb_iframe_widget {
+  top: -9px;
+}
 @media (max-width: 467px) {
   .linkTextingInner_oq3j39q0 {
     text-align: center;
