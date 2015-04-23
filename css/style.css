@@ -46,6 +46,32 @@ color: white;
   margin-top: 70px;
 }
 
+.btn-ets, .btn-ets:active, .btn-ets:focus {
+  background: white;
+  color: #00a1e0;
+  border-bottom: 3px solid rgb(214, 214, 214);
+  width: 200px;
+  height: 60px;
+  line-height: 38px;
+  font-size: 22px;
+}
+
+.btn-ets:hover {
+  background: rgb(246, 246, 246);
+  color: #00a1e0;
+}
+
+.btn-ets-inverse, .btn-ets-inverse:active, .btn-ets-inverse:focus {
+  background: #00a1e0;
+  color: white;
+  border-bottom: 3px solid #006E98;
+}
+
+.btn-ets-inverse:hover {
+  background: #018EC6;
+  color: white;
+}
+
 .btn-signup {
   width: 250px;
   height: 50px;
