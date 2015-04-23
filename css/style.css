@@ -125,6 +125,10 @@ color: white;
   .mainHeader {
     margin-top: 0px;
   }
+  .btn-ets, .btn-ets:active, .btn-ets:focus, .btn-ets:hover {
+    width: 300px;
+    font-size: 18px;
+  }
 }
 
 footer {
