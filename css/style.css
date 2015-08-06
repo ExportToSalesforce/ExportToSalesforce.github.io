@@ -735,14 +735,12 @@ font-family: 'Montserrat', Helvetica, sans-serif;
 }
 .footer-link {
 color: #fff;
-font-size: 10px;
 font-family: 'Montserrat', Helvetica, sans-serif;
 }
 .footer-link:hover, .footer-link:focus, .footer-link:active {
-  color: #B2B2B2;
+  color: #00a1e0;
   text-decoration: none;
-font-size: 24px;
 }
 .footer-social {
-font-size: 24px;
+font-size: 18px;
 }
